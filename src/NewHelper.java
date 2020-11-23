@@ -13,7 +13,6 @@ public class NewHelper {
 
     public static void main(String[] args) throws IllegalAccessException {
 
-
         ParseArg parseArg = null;
 
 //        parseArg=new ParseArg("-s","doc","C:\\Users\\humin\\Desktop");
